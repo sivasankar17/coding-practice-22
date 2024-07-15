@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.-about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  background-size: cover;
+}
+
+.about-heading {
+  font-size: 40px;
+  font-weight: bold;
+  color: #6d396b;
+}
+
+.about-image {
+  height: 60px;
+  width: 60px;
+}

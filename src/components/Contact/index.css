@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  background-size: cover;
+}
+
+.contact-heading {
+  font-size: 40px;
+  font-weight: bold;
+  color: #6d396b;
+}
+
+.contact-image {
+  height: 60px;
+  width: 60px;
+}
